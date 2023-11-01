@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/pgp-june
+    destination: /home/ubuntu/AWSDEVOPS_git_push_ucreate
 hooks:
   BeforeInstall:
     - location: scripts/boot.sh
